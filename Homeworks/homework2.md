@@ -47,7 +47,7 @@ patients. J. Urol., 16, 1076–1083.
     * Lasso
     * Ridge 
     * Use cross validation to tune the best model you can
-2. Where there any features that were highly correlated?
+2. Were there any features that were highly correlated?
 3. What features were the most important? Unimportant?
 4. What model worked best? What was the MSE of each?
 5. What difficulties did you have with this data set?
